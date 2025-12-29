@@ -25,4 +25,4 @@ The application is designed with **clean architecture, multithreading, and prope
 
 ---
 
-## Project Structure
+
